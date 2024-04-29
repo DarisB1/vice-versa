@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(40,77,217,255);
+  margin-bottom: 100rem;
+}
+
+hr {
+  height: 2px;
+  background-color: black;
+  border: none;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  list-style: none;
+  margin-right: 3rem;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  font-size: 200px;
+}
+
+a {
+  text-decoration: none;
+  list-style: none;
+  color: black;
+}
+
+.loupe {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.trait {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.art-payment {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 5rem;
+}
+
+.payment {
+  font-size: 48px;
+  padding: 3rem 0;
+}
+
+.slash {
+  display: flex;
+  justify-content: center;
+  font-size: 48px;
+}
+
+.last-invest {
+  color: white;
+  padding: 0.5rem;
+  background-color: black;
+  border: 2px solid black;
+  border-radius: 30px;
+}
+
+.Million {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 5rem 0 5rem;
+}
+
+.p-mil {
+  padding-right: 25rem;
+}
+
+.M {
+  font-size: 48px;
+}
+
+.last-img {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.img {
+  display: flex;
+  align-items: center;
+}
